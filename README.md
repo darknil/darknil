@@ -3,6 +3,7 @@
 - 👯 I’m looking to collaborate on new Web projects
 ## My skills
 [![Javascript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)](https://www.javascript.com)
+[![Nodejs](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png)](https://nodejs.org/en)
 <!--
 **darknil/darknil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
