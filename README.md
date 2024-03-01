@@ -14,7 +14,7 @@
 </a>
 
 <a href="https://www.mongodb.com/">
-  <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="Mongodb" width="50" height="50">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-5-1175140.png?f=webp&w=256" alt="Mongodb" width="50" height="50">
 </a>
 
 <a href="https://git-scm.com/">
