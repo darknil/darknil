@@ -1,5 +1,5 @@
-### Hi, I'm Alex 👋
-- 🌱 I’m currently learning backend development and software arhitecture
+### Hi, I'm Alex Senior Hello world developer 👋
+- 🌱 I’m currently learning backend development and hello development
 - 👯 I’m looking to collaborate on new Web projects
 ## My skills
 <a href="https://www.javascript.com">
