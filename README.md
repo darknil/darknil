@@ -1,7 +1,7 @@
 ![About me](https://thorium.rocks/imgs/aboutme.png)
 
 # Hi, I'm Alex Senior MVC & CRUD developer 👋
-- 🌱 I’m currently focused on backend development using Node.js, building robust and scalable server-side applications.
+- I’m currently focused on backend development using Node.js, building robust and scalable server-side applications.
 
 
 
@@ -14,6 +14,8 @@
   
 ## What I Do:
 - Developing web applications and B2B services using Node.js
+- Developing Telegram mini apps for social or games using colyseus
+- Contributing to open-source projects 
 
 ## How to Reach Me:
 - Telegram:  [Alex Morgan](https://t.me/thefinaljoke)
