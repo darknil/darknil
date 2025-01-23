@@ -1,3 +1,5 @@
+<img src="https://www.siue.edu/~mgolden/about%20me%202.html" alt="about me">
+
 ### Hi, I'm Alex Senior MVC & CRUD developer 👋
 - 🌱 I’m currently learning backend development and hello development
 - 👯 I’m looking to collaborate on new Web projects
