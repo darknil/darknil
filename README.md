@@ -1,4 +1,4 @@
-![About me](https://www.siue.edu/~mgolden/about-me.jpg)
+![About me](https://thorium.rocks/imgs/aboutme.png)
 
 ### Hi, I'm Alex Senior MVC & CRUD developer 👋
 - 🌱 I’m currently learning backend development and hello development
