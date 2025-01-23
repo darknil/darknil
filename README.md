@@ -17,8 +17,9 @@
 - Developing Telegram mini apps for social or games using colyseus
 - Contributing to open-source projects 
 
-## How to Reach Me:
+## Socials:
 - Telegram:  [Alex Morgan](https://t.me/thefinaljoke)
+- Wakatime: [Alex Morgan](https://wakatime.com/@darknil)
 
 <!--
 **darknil/darknil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
