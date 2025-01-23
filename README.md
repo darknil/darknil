@@ -17,6 +17,10 @@
 - Developing Telegram mini apps for social or games using colyseus
 - Contributing to open-source projects 
 
+## Projects I’ve Contributed To:
+- [Overhacks](https://dorahacks.io/buidl/11311)
+- [Brand404 telegram mini app](https://t.me/+NTzURbil9kdhYmYy)
+
 ## Socials:
 - Telegram:  [Alex Morgan](https://t.me/thefinaljoke)
 - Wakatime: [Alex Morgan](https://wakatime.com/@darknil)
