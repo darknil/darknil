@@ -1,4 +1,4 @@
-### Hi, I'm Alex Senior Hello world developer 👋
+### Hi, I'm Alex Senior MVC & CRUD developer 👋
 - 🌱 I’m currently learning backend development and hello development
 - 👯 I’m looking to collaborate on new Web projects
 ## My skills
