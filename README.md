@@ -2,7 +2,7 @@
 
 # Hi, I'm Alex Senior MVC & CRUD developer 👋
 - 🌱 I’m currently focused on backend development using Node.js, building robust and scalable server-side applications.
-<img src="https://i.imgur.com/yY3dXS1.jpeg" alt="me" align="right" width="200" height="200"/>
+
 
 
 ## My skills
