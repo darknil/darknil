@@ -13,7 +13,7 @@
 
   
 ## What I Do:
-- Developing web applications and B2B services using Node.js
+- Developing BFF and BFB services using Node.js
 - Developing Telegram mini apps for social or games using colyseus
 - Contributing to open-source projects 
 
