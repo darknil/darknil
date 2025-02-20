@@ -9,7 +9,7 @@
 - Languages: JavaScript, TypeScript
 - Technologies: Node.js, Docker, Nginx ,AWS/S3
 - Frameworks: Express,Nest,Coleseus,Adonis
-- DataBases: PostgreSQL, MongoDB , S3
+- DataBases: PostgreSQL, MongoDB 
 
   
 ## What I Do:
