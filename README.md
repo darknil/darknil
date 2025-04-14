@@ -2,7 +2,7 @@
 
 # Hi, I'm Alex Senior MVC & CRUD developer 👋
 - I’m currently focused on backend development using Node.js, building robust and scalable server-side applications.
-
+- I’m a fifth-generation shit sommelier, ready to fix your le gonvocode written by an Indian guy for five packs of instant noodles due to lack of funding.
 
 
 ## My skills
