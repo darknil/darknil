@@ -18,6 +18,8 @@
 - Contributing to open-source projects 
 
 ## Projects I’ve Contributed To:
+- [Colyseus_poker](https://github.com/Lounge-Company/poker_telegram_mini_app)
+- [Hacklancer](https://github.com/darknil/Hacklancer)
 - [Overhacks](https://dorahacks.io/buidl/11311)
 - [Brand404 telegram mini app](https://t.me/+NTzURbil9kdhYmYy)
 
