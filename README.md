@@ -26,6 +26,10 @@
 ## Socials:
 - Telegram:  [Alex Morgan](https://t.me/thefinaljoke)
 - Wakatime: [Alex Morgan](https://wakatime.com/@darknil)
+---
+<p align="center">
+ <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=darknil&show_icons=true&theme=vision-friendly-dark">
+</p>
 
 ---
 <p align="center">
